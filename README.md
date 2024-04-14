@@ -41,7 +41,7 @@ The support and the customer service are excellent. I recommend it" - meansondab
 
 
 Let's Connect
-I'm always interested in new opportunities and collaborations. Feel free to reach out to me via email at feliciienL@ or connect with me on LinkedIn https://www.linkedin.com/in/felicien-diouf-68b998216.
+I'm always interested in new opportunities and collaborations. Feel free to reach out to me via email at feliciien@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/felicien-diouf-68b998216.
 or if you looking for my service as a freelancer you can contact me here https://fr.fiverr.com/feliciendiou144?public_mode=true
 
 Let's build something great together!
