@@ -7,7 +7,7 @@
 👨‍💻 **Felicien Diouf**
 Experienced Web Developer | Full Stack Engineer | AI Developer
 
-🔍 Actively Seeking: Web Developer • Full Stack Engineer • AI Developer • Frontend Developer • Backend Developer roles
+ Web Developer • Full Stack Engineer • AI Developer • Frontend Developer • Backend Developer roles
 
 🌍 **Location Preferences**:
 🏢 On-site: Senegal • United States • France • Canada • United Kingdom
