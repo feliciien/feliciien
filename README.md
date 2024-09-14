@@ -13,7 +13,7 @@ Experienced Web Developer | Full Stack Engineer | AI Developer
 🏢 On-site: Senegal • United States • France • Canada • United Kingdom
 🏠 Remote: United States • Canada • France • Senegal • United Kingdom
 
-🕒 **Available to Start**: Immediately | 💼 **Employment Types**: Full-time • Part-time • Contract • Internship • Temporary
+🕒 **Available to Start**: Immediately | 💼 **Employment Types**: Full-time • Part-time • Contract  • Temporary
 
 📩 **Recruiters Only**: Please reach out if you have opportunities matching my skillset and preferences.
 
