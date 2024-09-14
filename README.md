@@ -2,7 +2,7 @@
 
 ---
 
-🌐 **Open to Opportunities in Web Development and Artificial Intelligence**
+🌐 **Open to Opportunities in software Development and Artificial Intelligence**
 
 👨‍💻 **Felicien Diouf**
 Experienced Web Developer | Full Stack Engineer | AI Developer
