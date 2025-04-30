@@ -1,7 +1,28 @@
-As the Founder & CEO of Workfusionapp and BotIQ Trade, I am dedicated to driving innovation and delivering cutting-edge solutions in the fields of AI-powered software and algorithmic trading. With a passion for leveraging technology to solve complex challenges, I lead two dynamic enterprises, each with a unique mission:
-	•	Workfusionapp: A transformative AI-SaaS platform offering a suite of tools for text, code, image, video, and music generation. Our mission is to empower users by making advanced AI accessible, intuitive, and impactful across various industries.
-	•	BotIQ Trade: A next-generation algorithmic trading platform that combines artificial intelligence, latency optimization, and risk management to deliver smarter, faster, and more profitable trading solutions.
+# 👋 Hi, I'm Félicien Diouf
 
-My expertise spans product development, strategic leadership, and operational excellence. I am deeply committed to creating value through innovation, fostering growth, and building technologies that empower individuals and businesses alike.
+**AI Engineer | Full Stack SaaS Founder | Fintech Innovator**
 
-With a forward-thinking mindset and a collaborative approach, I continuously seek to push boundaries and explore new opportunities for growth. Connect with me to discuss technology, entrepreneurship, or potential collaboration
+🚀 Founder & CEO of [Workfusionapp](https://www.workfusionapp.com) – an all-in-one AI SaaS platform for code, text, image, video, and music generation.
+
+📊 Also founder of [BotIQ Trade](https://botiq.trade) – an AI-powered trading engine for automated portfolio management and intelligent strategy execution.
+
+---
+
+## 🧠 What I Do
+
+- ⚙️ Build **production-grade AI platforms** using OpenAI, LangChain, Pinecone, Supabase, and custom APIs.
+- 🪙 Develop **trading infrastructure**: algorithmic bots, smart contracts, DeFi tools.
+- 🌍 Lead **end-to-end product development**: architecture, full stack dev, CI/CD, go-to-market.
+- 💬 Work across multiple verticals: AI, SaaS, fintech, and automation.
+
+---
+
+## 🔧 Tech Stack
+
+```yaml
+Languages:   JavaScript, Python, TypeScript, Dart, Solidity  
+Frameworks:  React, Next.js, Node.js, Flutter, Express, Django  
+AI/ML:       OpenAI API, LLMs, Transformers, Stable Diffusion, LangChain  
+Infra:       Supabase, Vercel, Docker, GitHub Actions, WebSockets  
+Blockchain:  Ethereum, Hardhat, Web3.js, Smart Contracts  
+Data:        MongoDB, PostgreSQL, Firebase, Redis  
