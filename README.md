@@ -2,8 +2,7 @@
 
 **AI Engineer | Full Stack SaaS Founder | Fintech Innovator**
 
-🚀 Founder & CEO of [Workfusionapp](https://www.workfusionapp.com) – an all-in-one AI SaaS platform for code, text, image, video, and music generation.
-
+🚀 Founder & CEO of [Workfusionapp](https://www.workfusionapp.com) – Workfusionapp (AI accountant for freelancers/SMEs), 
 📊 Also founder of [BotIQ Trade](https://botiq.trade) – an AI-powered trading engine for automated portfolio management and intelligent strategy execution.
 
 ---
