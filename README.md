@@ -48,12 +48,14 @@ Trading:     MT5, MQL5, backtesting, walk-forward validation, risk telemetry
 Mobile:      iOS, watchOS, mobile bridges, push-style owner alerts
 ```
 
-## Selected Public Repositories
+## Pinned Projects
 
 - [feliciien.github.io](https://github.com/feliciien/feliciien.github.io) - public portfolio and proof page.
 - [ai-accounting-dashboard](https://github.com/feliciien/ai-accounting-dashboard) - early AI accounting/dashboard work.
 - [botiqtrade](https://github.com/feliciien/botiqtrade) - trading product experiments.
 - [VoiceGenAI-API](https://github.com/feliciien/VoiceGenAI-API) - voice/AI API work.
+- [workfusionappagent](https://github.com/feliciien/workfusionappagent) - agentic workflow experiments for SaaS automation.
+- [workfusionappcodeagent](https://github.com/feliciien/workfusionappcodeagent) - code-agent experiments for AI-assisted product development.
 
 ## Collaboration
 
