@@ -1,39 +1,39 @@
 # Felicien Diouf
 
-I build AI-native products, automation systems, and trading operations infrastructure.
+Founder and AI engineer building Workfusionapp, BoltIQ Trade, and risk-first automation systems for MT4/MT5 builders and trading operations.
 
-My current focus is turning complex workflows into production-grade command centers: clear dashboards, safe automation, audit trails, mobile visibility, and measurable operator control.
+My work sits at the intersection of AI-assisted developer tools, full-stack SaaS, trading infrastructure, risk controls, and operator-grade telemetry.
 
 <p>
-  <a href="https://www.workfusionapp.com"><img alt="WorkFusionapp" src="https://img.shields.io/badge/WorkFusionapp-live-111111?style=flat-square"></a>
+  <a href="https://www.workfusionapp.com"><img alt="Workfusionapp" src="https://img.shields.io/badge/Workfusionapp-live-111111?style=flat-square"></a>
   <a href="https://feliciien.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-111111?style=flat-square"></a>
   <a href="https://github.com/feliciien"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-feliciien-111111?style=flat-square&logo=github"></a>
 </p>
 
 ## Current Work
 
-| Product | What it does | Focus |
+| Product | Public Positioning | Focus |
 | --- | --- | --- |
-| [WorkFusionapp](https://www.workfusionapp.com) | SaaS workspace for EA generation, debugging, scoring, project storage, and subscription workflows. | AI product, SaaS UX, billing, account flows |
-| BoltIQ | Trading operations command center around MT5, risk controls, audit logs, mobile/watch monitoring, and research validation. | Execution safety, drawdown discipline, telemetry |
-| FitForge AI | Local-first iOS/watchOS fitness coach. | Mobile AI, privacy-first UX |
-| [Portfolio](https://feliciien.github.io) | Public proof, product notes, and selected projects. | Founder profile, product storytelling |
+| [Workfusionapp](https://www.workfusionapp.com) | AI-assisted MT4/MT5 workspace for EA drafting, compiler diagnostics, readiness checks, project storage, and subscription workflows. | SaaS, MQL tooling, AI-assisted development |
+| BoltIQ Trade | MT5 trading operations infrastructure focused on validation, telemetry, risk controls, and audit logs. | Execution safety, drawdown discipline, monitoring |
+| Boltiq Capital | Founder vehicle for systematic trading infrastructure, governance, and operating discipline. | Risk governance, research process, investor-grade documentation |
+| [Portfolio](https://feliciien.github.io) | Public proof page for selected products, engineering work, and founder notes. | Product storytelling, public evidence |
 
 ## What I Build
 
-- AI-assisted SaaS products with real workflows, not just demos.
-- Trading operations tools focused on risk controls, observability, and auditability.
-- Mobile monitoring systems for owner visibility and incident response.
-- Automation pipelines for research, validation, reporting, and controlled deployment.
-- Full-stack products from idea to architecture, backend, frontend, deployment, and operations.
+- AI-assisted SaaS products with real user workflows, billing, accounts, and operational reporting.
+- MT4/MT5 and MQL tooling for cleaner EA drafts, compiler-error debugging, and manual testing preparation.
+- Trading operations systems centered on risk limits, observability, audit trails, and owner control.
+- Automation pipelines for research, validation, growth reporting, and controlled deployment.
+- Full-stack products from product strategy to backend, frontend, deployment, and operations.
 
-## Engineering Principles
+## Operating Principles
 
-- **Safety before automation**: critical actions need explicit gates, logs, and rollback paths.
-- **Evidence over claims**: systems should produce artifacts, reports, and reproducible results.
-- **Operator visibility**: every command should show state, result, failure reason, and next action.
-- **Security by default**: secrets stay in environment stores, keychains, or provider-managed vaults.
-- **Product discipline**: the interface should make the important decision obvious.
+- **Evidence over claims**: public work should be backed by artifacts, tests, reports, or reproducible systems.
+- **Risk before scale**: automation needs explicit gates, logs, rollback paths, and human override points.
+- **Operator visibility**: dashboards should make status, failure reason, and next action obvious.
+- **Security by default**: secrets belong in environment stores, keychains, or provider-managed vaults.
+- **No performance hype**: trading infrastructure is presented as engineering and governance work, not a promise of returns.
 
 ## Stack
 
@@ -44,34 +44,33 @@ Backend:     Node.js, FastAPI, REST APIs, event-driven services
 AI:          OpenAI API, LLM workflows, RAG patterns, evaluation loops
 Data:        PostgreSQL, Supabase, Redis, SQLite, structured logs
 Infra:       Vercel, GitHub Actions, Docker, launchd/system services
-Trading:     MT5, MQL5, backtesting, walk-forward validation, risk telemetry
-Mobile:      iOS, watchOS, mobile bridges, push-style owner alerts
+Trading:     MT5, MQL4/MQL5, backtesting, validation, risk telemetry
+Mobile:      iOS, watchOS, mobile bridges, owner alerts
 ```
 
-## Pinned Projects
+## Public Projects
 
-- [feliciien.github.io](https://github.com/feliciien/feliciien.github.io) - public portfolio and proof page.
-- [ai-accounting-dashboard](https://github.com/feliciien/ai-accounting-dashboard) - early AI accounting/dashboard work.
-- [botiqtrade](https://github.com/feliciien/botiqtrade) - trading product experiments.
-- [VoiceGenAI-API](https://github.com/feliciien/VoiceGenAI-API) - voice/AI API work.
-- [workfusionappagent](https://github.com/feliciien/workfusionappagent) - agentic workflow experiments for SaaS automation.
-- [workfusionappcodeagent](https://github.com/feliciien/workfusionappcodeagent) - code-agent experiments for AI-assisted product development.
+- [feliciien.github.io](https://github.com/feliciien/feliciien.github.io) - portfolio and public proof page.
+- [botiqtrade](https://github.com/feliciien/botiqtrade) - trading product and operations experiments.
+- [ai-accounting-dashboard](https://github.com/feliciien/ai-accounting-dashboard) - early AI accounting and dashboard work.
+- [VoiceGenAI-API](https://github.com/feliciien/VoiceGenAI-API) - AI voice generation API experiments.
+- [multilingual-meeting-enhancer](https://github.com/feliciien/multilingual-meeting-enhancer) - multilingual AI meeting tooling.
 
 ## Collaboration
 
-I am most interested in serious builders and operators in:
+I am most interested in serious builders and operators working on:
 
 - AI SaaS products
+- MT4/MT5 developer tooling
 - trading operations infrastructure
 - risk and audit systems
-- mobile monitoring and alerting
-- production reliability
 - secure multi-tenant product architecture
+- mobile monitoring and alerting
 
 For trading-related work: no guaranteed returns, no public investment offering, and no live credentials or secrets shared without written scope, trust, and strict controls.
 
 ## Contact
 
-- Website: [workfusionapp.com](https://www.workfusionapp.com)
+- Workfusionapp: [workfusionapp.com](https://www.workfusionapp.com)
 - Portfolio: [feliciien.github.io](https://feliciien.github.io)
 - GitHub: [@feliciien](https://github.com/feliciien)
